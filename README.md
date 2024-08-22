@@ -1,1 +1,1 @@
-# amos-tech-blog
+# amos-life-blog
