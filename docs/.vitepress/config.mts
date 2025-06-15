@@ -18,9 +18,19 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: "NextJs 快速入门", link: "/quick-guide/nextjs-guide" },
+            { text: "Typescript Guide", link: "/quick-guide/ts" },
+          ],
+        },
+        {
+          text: "Ops && Maintains",
+          collapsed: false,
+          items: [
+            { text: "AWS Guide", link: "/quick-guide/aws" },
           ],
         },
       ],
+      "/quick-guide/aws": [
+      ]
     },
 
     socialLinks: [
